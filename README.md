@@ -32,7 +32,7 @@ A implantação será feita na plataforma [Vercel](https://vercel.com/) para nã
 
 ## 🛠️ Construído com
 
-Editor VsCode e extensões: autopep8, autoDocstring, Black Formatter, Flake8, Python, Python Debugger, Pylance, com instalação do python 3 ultima versão
+Editor VsCode e extensões: Angular Language Service, Angular-components-editor, Angular.Shule: Extencion Pack
 
 - [Angular](https://angular.dev/) - Framework
 - [VsCode](https://code.visualstudio.com/download) - Editor de código

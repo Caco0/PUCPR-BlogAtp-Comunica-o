@@ -11,10 +11,6 @@
   align-self: center;
 
 }
-.aluno{
-  background-color: blue;
-  width: 50%;
-}
 .empresa-imagem{
   width: 100%;
   text-align: center;
@@ -48,6 +44,40 @@
   flex-direction: column;
   justify-content: center;
   color: var(--text-color-primary);
+}
+.aluno-content{
+  display: flex;
+  line-height: 1.8rem;
+  width: 50%;
+  padding: 2rem;
+  justify-content: center;
+  flex-direction: column;
+  color: var(--text-color-primary);
+}
+.contato-aluno{
+  display: flex;
+}
+.contato-aluno-list{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+li{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: var(--text-color-primary);
+}
+.aluno-dev{
+  font-size: 1rem;
+  color: var(--text-color-secondary);
+}
+.aluno-description{
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
 }
 .footer-content{
   background-color: var(--primary-color);
