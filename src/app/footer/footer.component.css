@@ -1,0 +1,63 @@
+.contact-us{
+  display: flex;
+  background-color: var(--primary-color);
+  width: 100vw;
+  height: 60vh;
+
+}
+.empresa-original{
+  width: 50%;
+  justify-content: center;
+  align-self: center;
+
+}
+.aluno{
+  background-color: blue;
+  width: 50%;
+}
+.empresa-imagem{
+  width: 100%;
+  text-align: center;
+  height: 25%;
+  justify-content: center;
+}
+.empresa-imagem img {
+  width: 300px;
+  margin: 2rem;
+}
+.empresa-content a {
+  text-decoration: none;
+}
+.aviso{
+  font-size: 3rem;
+}
+.aviso-content{
+  margin-top: 1.5rem;
+  padding: 0 1.5rem;
+  line-height: 2rem;
+}
+.site-original{
+  font-size: 3rem;
+  margin-top: 1.5rem;
+}
+.empresa-content{
+  height: 70%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: var(--text-color-primary);
+}
+.footer-content{
+  background-color: var(--primary-color);
+  height: 8vh;
+  width: 100VW;
+}
+.footer-content p{
+  color: var(--text-color-primary);
+  align-items: center;
+  padding: 1.8rem;
+  text-align: center;
+}
+

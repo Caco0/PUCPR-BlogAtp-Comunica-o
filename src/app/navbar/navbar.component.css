@@ -1,0 +1,30 @@
+header{
+height: 8vh;
+background-color: #333;
+width: 100%;
+display: block;
+position: fixed;
+
+}
+.header-img{
+width: 100px;
+margin: 1.2rem;
+}
+.header-components{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.header-nav-pages{
+  width: 35%;
+  display: flex;
+  justify-content: space-between;
+  margin: auto 1.2rem;
+
+}
+ul a{
+  text-decoration: none;
+  color: var(--text-color-primary);
+  margin: auto 2rem ;
+  font-size: 1.2rem;
+}

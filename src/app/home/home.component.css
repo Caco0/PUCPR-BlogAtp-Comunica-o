@@ -1,0 +1,43 @@
+.home {
+  width: 100vw;
+  height: 100vh;
+}
+.empresa {
+  display: flex;
+  justify-content: center;
+}
+.empresa-imagem{
+  width: 50vw;
+  height: 100vh;
+  align-content: center;
+
+}
+.empresa-sobre{
+  width: 50vw;
+  height: 100vh;
+  align-content: center;
+}
+img{
+  display: flex;
+  width: 70%;
+  margin: 8vh auto;
+  text-align: center;
+}
+.empresa-sobre-content{
+  width: 80%;
+  height: 80%;
+  align-content: center;
+  margin: 0 auto;
+  text-align: center;
+}
+h1{
+  font-size: 6rem;
+  font-weight: bolder;
+  margin-bottom: 2rem;
+}
+p{
+  font-size: 1.4rem;
+  text-align: justify;
+  line-height: 2rem;
+}
+
