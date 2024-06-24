@@ -1,27 +1,45 @@
-# BlogAtp
+# Projeto - PUCPR Blog ATP - Matéria de Comunicação
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+## 🚀 Começando
 
-## Development server
+Implementação de estruturas, HTML CSS e TypeScript montando um blog
+Volte mais vezes para conferir o andamento do projeto!
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### 📋 Pré-requisitos
 
-## Code scaffolding
+Este projeto Foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Instalando o editor de código VsCode
+winget
 
-## Build
+```
+winget install -e --id Microsoft.VisualStudioCode
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Chocolatey
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
+choco install vscode
+```
 
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 📦 Implantação
+
+A implantação será feita na plataforma [Vercel](https://vercel.com/) para não incluir custos e conseguir apresentar o projeto
+
+## 🛠️ Construído com
+
+Editor VsCode e extensões: autopep8, autoDocstring, Black Formatter, Flake8, Python, Python Debugger, Pylance, com instalação do python 3 ultima versão
+
+- [Angular](https://angular.dev/) - Framework
+- [VsCode](https://code.visualstudio.com/download) - Editor de código
+-
+
+## ✒️ Autores
+
+- **Desenvolvedor** - _Trabalho Inicial_ - [Rafael Fortunato Dametto - Portfólio](https://portifolio-rafael-chi.vercel.app/)
+
+⌨️ com ❤️ por [Rafael Fortunato Dametto](https://github.com/Caco0) 😊
