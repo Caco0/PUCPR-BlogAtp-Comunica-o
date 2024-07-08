@@ -1,0 +1,32 @@
+.servicos_container{
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+}
+
+.assistencia_container,
+.manutencao_corretiva,
+.manutencao_preventiva_container,
+.suporte_tecnico_container{
+  text-align: center;
+  padding-top: 3rem;
+  font-size: 2rem;
+}
+.assistencia_titulo,
+.manutencao_corretiva_titulo,
+.manutencao_preventiva_titulo,
+.suporte_tecnico_titulo{
+  font-size: 5rem;
+  color: #aa1313;
+}
+.assistencia_sub_titulo,
+.manutencao_corretiva_sub_titulo,
+.manutencao_preventiva_sub_titulo,
+.suporte_tecnico_sub_titulo{
+  font-size: 3rem;
+  font-weight: 600;
+}
+.setup_tecnico{
+  margin-bottom: 5rem;
+}
+
