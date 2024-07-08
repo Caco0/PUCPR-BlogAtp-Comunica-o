@@ -1,0 +1,47 @@
+.sobre{
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--primary-color);
+}
+.sobre_img{
+  display: flex;
+  padding: 1.5rem;
+  justify-content: space-between;
+  color: var(--text-color-primary);
+}
+.historia{
+  justify-content: center;
+  margin: 1rem;
+}
+.titulo_historia{
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 1.5rem;
+}
+.texto_historia{
+  font-size: 1.5rem;
+}
+.missao_visao{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+
+}
+.titulo_missao,
+.titulo_visao,
+.titulo_valores{
+  font-size: 4.5rem;
+  font-weight: 900;
+  color: brown;
+  margin-top: 2rem;
+}
+.valores{
+  text-align: center;
+}
+.texto_missao,
+.texto_visao,
+.texto_valores{
+  color: var(--text-color-primary);
+  font-size: 1.5rem;
+  margin: 1.5rem;
+}

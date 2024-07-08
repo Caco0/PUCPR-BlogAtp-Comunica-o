@@ -2,11 +2,13 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HomeComponent } from './home/home.component';
+import { SobreComponent } from './home/sobre/sobre.component';
 import { FooterComponent } from './footer/footer.component';
 import { InfograficoComponent } from './home/infografico/infografico.component';
 import { ServicosComponent } from './home/servicos/servicos.component';
 import { ProdutosComponent } from './home/produtos/produtos.component';
 import { NoticiasComponent } from './home/noticias/noticias.component';
+
 
 @Component({
   selector: 'app-root',
@@ -19,7 +21,8 @@ import { NoticiasComponent } from './home/noticias/noticias.component';
     InfograficoComponent,
     ServicosComponent,
     ProdutosComponent,
-    NoticiasComponent
+    NoticiasComponent,
+    SobreComponent
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
